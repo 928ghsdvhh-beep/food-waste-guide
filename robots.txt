@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://food-waste-guide.pages.dev/sitemap.xml
