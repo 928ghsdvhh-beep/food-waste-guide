@@ -1,0 +1,194 @@
+{
+  "site": "food-waste-guide",
+  "pages": 10,
+  "indexable": 8,
+  "sitemap_urls": 8,
+  "issues": [],
+  "page_audit": [
+    {
+      "path": "about.html",
+      "title": "サイトについて｜生ごみ処理機ガイド",
+      "h1": "サイトについて",
+      "description": "生ごみ処理機ガイドの編集方針・広告掲載・情報の確認方法について。",
+      "canonical": "https://food-waste-guide.pages.dev/about",
+      "noindex": false,
+      "text_characters": 380,
+      "html_bytes": 2638,
+      "schema_types": [
+        "AboutPage"
+      ],
+      "internal_links": 3,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "index.html",
+      "title": "生ごみ処理機パリパリキューの選び方・電気代・補助金｜生ごみ処理機ガイド",
+      "h1": "生ごみ処理機パリパリキューの選び方・電気代・補助金",
+      "description": "生ごみ処理機パリパリキューの仕組みや特徴から、ライト・標準・アルファの選び方、電気代、補助金、Amazonの商品情報まで購入前に確認。",
+      "canonical": "https://food-waste-guide.pages.dev/",
+      "noindex": false,
+      "text_characters": 1365,
+      "html_bytes": 21294,
+      "schema_types": [
+        "WebSite"
+      ],
+      "internal_links": 9,
+      "affiliate_links": 6,
+      "images": 3,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "subsidy-guide.html",
+      "title": "生ごみ処理機の補助金は使える？自治体別の上限額と申請注意点｜生ごみ処理機ガイド",
+      "h1": "生ごみ処理機の補助金は使える？購入前に確認したい自治体の制度【2026年11月確認】",
+      "description": "生ごみ処理機の購入費補助金を自治体公式情報で比較。補助率・上限額・購入前申請の注意点とAmazon購入時の確認事項を紹介。",
+      "canonical": "https://food-waste-guide.pages.dev/subsidy-guide",
+      "noindex": false,
+      "text_characters": 4002,
+      "html_bytes": 24843,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 6,
+      "affiliate_links": 2,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "ppc15-electricity-cost.html",
+      "title": "パリパリキュー PPC-15の電気代はいくら？運転モード別に年間費用を試算｜生ごみ処理機ガイド",
+      "h1": "パリパリキュー PPC-15の電気代はいくら？運転モード別に年間費用を試算",
+      "description": "パリパリキュー PPC-15の電気代はいくら？運転モード別に年間費用を試算。メーカー公表仕様と購入前の注意点を確認。",
+      "canonical": "https://food-waste-guide.pages.dev/ppc15-electricity-cost",
+      "noindex": false,
+      "text_characters": 1849,
+      "html_bytes": 11972,
+      "schema_types": [
+        "Article",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "internal_links": 5,
+      "affiliate_links": 2,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "food-waste-dryer-checklist.html",
+      "title": "家庭用生ごみ乾燥機の購入前チェックリスト｜容量・音・電気代・置き場所｜生ごみ処理機ガイド",
+      "h1": "家庭用生ごみ乾燥機の購入前チェックリスト｜容量・音・電気代・置き場所",
+      "description": "家庭用生ごみ乾燥機は、毎日使う量と置き場所が合っているかで使い勝手が変わります。本体価格だけでは分からない確認点をまとめます。",
+      "canonical": "https://food-waste-guide.pages.dev/food-waste-dryer-checklist",
+      "noindex": false,
+      "text_characters": 1669,
+      "html_bytes": 11725,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 7,
+      "affiliate_links": 2,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "kanagawa-subsidy.html",
+      "title": "神奈川県の生ごみ処理機補助金｜横浜市と横須賀市の違い・Amazon購入の注意点",
+      "h1": "神奈川県の生ごみ処理機補助金｜横浜市と横須賀市で何が違う？",
+      "description": "神奈川県の生ごみ処理機購入補助金。横浜市は助成終了、横須賀市は電動式購入額の半額・上限3万円。Amazon購入前の申請条件も確認。",
+      "canonical": "https://food-waste-guide.pages.dev/kanagawa-subsidy",
+      "noindex": false,
+      "text_characters": 1593,
+      "html_bytes": 9006,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 5,
+      "affiliate_links": 2,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "model-comparison.html",
+      "title": "パリパリキュー3機種比較｜ライト・PPC-15・アルファの違いと選び方",
+      "h1": "パリパリキューはどれを買う？ライト・標準・アルファの3機種を比較",
+      "description": "パリパリキュー ライトPCL-35・標準PPC-15・アルファPPC-51の処理量、電気代、サイズ、価格、交換フィルターをメーカー資料から比較。",
+      "canonical": "https://food-waste-guide.pages.dev/model-comparison",
+      "noindex": true,
+      "text_characters": 2181,
+      "html_bytes": 10856,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 6,
+      "affiliate_links": 2,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "404.html",
+      "title": "ページが見つかりません",
+      "h1": "ページが見つかりませんでした",
+      "description": null,
+      "canonical": null,
+      "noindex": true,
+      "text_characters": 63,
+      "html_bytes": 587,
+      "schema_types": [],
+      "internal_links": 1,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": false
+    },
+    {
+      "path": "privacy.html",
+      "title": "プライバシーポリシー｜生ごみ処理機ガイド",
+      "h1": "プライバシーポリシー",
+      "description": "生ごみ処理機ガイドにおける個人情報・広告・アクセス解析の取り扱いについて。",
+      "canonical": "https://food-waste-guide.pages.dev/privacy",
+      "noindex": false,
+      "text_characters": 399,
+      "html_bytes": 2728,
+      "schema_types": [
+        "WebPage"
+      ],
+      "internal_links": 3,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "ebina-subsidy.html",
+      "title": "海老名市の生ごみ処理機補助金｜2026年度は受付終了・購入前の注意点",
+      "h1": "海老名市の生ごみ処理機補助金｜2026年度の受付状況と購入前の注意点",
+      "description": "海老名市の2026年度生ごみ処理機補助金は新規受付終了、キャンセル待ち。電動式は購入額の4分の3・上限5万円。購入前申請に注意。",
+      "canonical": "https://food-waste-guide.pages.dev/ebina-subsidy",
+      "noindex": false,
+      "text_characters": 771,
+      "html_bytes": 5575,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "internal_links": 5,
+      "affiliate_links": 2,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    }
+  ]
+}

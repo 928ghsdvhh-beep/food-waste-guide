@@ -1,0 +1,492 @@
+{
+  "note": "Local Chromium; external images, ads and analytics blocked. This verifies layout, not live network speed or affiliate attribution.",
+  "viewports": [
+    {
+      "repo": "food-waste-guide",
+      "path": "about.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "about.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "about.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "index.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "index.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "index.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 1
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "subsidy-guide.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "subsidy-guide.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "subsidy-guide.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "ppc15-electricity-cost.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "ppc15-electricity-cost.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "ppc15-electricity-cost.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "food-waste-dryer-checklist.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 264.046875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 264.046875
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "food-waste-dryer-checklist.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 264.046875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 560
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 264.046875
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "food-waste-dryer-checklist.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "kanagawa-subsidy.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 540
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 265.328125
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 184.1875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 265.328125
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "kanagawa-subsidy.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 540
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 184.1875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 184.1875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 539
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "kanagawa-subsidy.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "model-comparison.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 640
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 640
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 640
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 169.890625
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 189.0625
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 640
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 640
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 169.890625
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "model-comparison.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 640
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 640
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 640
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 169.890625
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 189.0625
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 640
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 640
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 169.890625
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "model-comparison.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "404.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "404.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "404.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "privacy.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "privacy.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "privacy.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "ebina-subsidy.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "ebina-subsidy.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "food-waste-guide",
+      "path": "ebina-subsidy.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    }
+  ],
+  "smoke": []
+}
