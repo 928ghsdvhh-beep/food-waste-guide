@@ -1,0 +1,205 @@
+[
+  {
+    "url": "https://www.parisparis.jp/spec/",
+    "status": 200,
+    "final_url": "https://www.parisparis.jp/spec/",
+    "content_type": "text/html; charset=UTF-8",
+    "pages": [
+      "food-waste-guide/index.html",
+      "food-waste-guide/ppc15-electricity-cost.html",
+      "food-waste-guide/ppc15-electricity-cost.html",
+      "food-waste-guide/ppc15-electricity-cost.html",
+      "food-waste-guide/food-waste-dryer-checklist.html"
+    ]
+  },
+  {
+    "url": "https://www.city.sapporo.jp/seiso/gomi/namagomi/namagomi_taihi01.html",
+    "status": 200,
+    "final_url": "https://www.city.sapporo.jp/seiso/gomi/namagomi/namagomi_taihi01.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://www.city.saitama.lg.jp/001/006/010/003/p077064.html",
+    "status": 200,
+    "final_url": "https://www.city.saitama.lg.jp/001/006/010/003/p077064.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://www.city.chiba.jp/kankyo/junkan/haikibutsu/k-ngomi-hojo.html",
+    "status": 200,
+    "final_url": "https://www.city.chiba.jp/kankyo/junkan/haikibutsu/k-ngomi-hojo.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://www.city.shibuya.tokyo.jp/kurashi/gomi/shokuhin-torikumi/namagomisyoriki_hojo.html",
+    "status": 200,
+    "final_url": "https://www.city.shibuya.tokyo.jp/kurashi/gomi/shokuhin-torikumi/namagomisyoriki_hojo.html",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://www.city.machida.tokyo.jp/kurashi/kankyo/gomi/event/namagomi/hojyoseido/namagomisyoriki.html",
+    "status": 200,
+    "final_url": "https://www.city.machida.tokyo.jp/kurashi/kankyo/gomi/event/namagomi/hojyoseido/namagomisyoriki.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://www.city.hachioji.tokyo.jp/kurashi/gomi/hojo/p002559.html",
+    "status": 200,
+    "final_url": "https://www.city.hachioji.tokyo.jp/kurashi/gomi/hojo/p002559.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://www.city.yokohama.lg.jp/faq/kukyoku/shigen/shigen-jinkan/20211019113656137.html",
+    "status": 200,
+    "final_url": "https://www.city.yokohama.lg.jp/faq/kukyoku/shigen/shigen-jinkan/20211019113656137.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/kanagawa-subsidy.html"
+    ]
+  },
+  {
+    "url": "https://www.city.yokosuka.kanagawa.jp/4150/g_info/l100000707.html",
+    "status": 200,
+    "final_url": "https://www.city.yokosuka.kanagawa.jp/4150/g_info/l100000707.html",
+    "pages": [
+      "food-waste-guide/kanagawa-subsidy.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://www.city.ebina.kanagawa.jp/guide/kurashi/recycle/namagomi/1003357.html",
+    "status": 200,
+    "final_url": "https://www.city.ebina.kanagawa.jp/guide/kurashi/recycle/namagomi/1003357.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/ebina-subsidy.html",
+      "food-waste-guide/ebina-subsidy.html"
+    ]
+  },
+  {
+    "url": "https://www.city.nagano.nagano.jp/n121500/contents/p000608.html",
+    "status": 200,
+    "final_url": "https://www.city.nagano.nagano.jp/n121500/contents/p000608.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://www.city.kasugai.lg.jp/kurashi/1032702/1032853/1032925/1033020.html",
+    "status": 200,
+    "final_url": "https://www.city.kasugai.lg.jp/kurashi/1032702/1032853/1032925/1033020.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://www.city.matsuyama.ehime.jp/kurashi/kurashi/hojokin/hojyo_namagomishori.html",
+    "status": 200,
+    "final_url": "https://www.city.matsuyama.ehime.jp/kurashi/kurashi/hojokin/hojyo_namagomishori.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://www.city.kawagoe.saitama.jp/kurashi/gomi/1002421/1020810.html",
+    "status": 200,
+    "final_url": "https://www.city.kawagoe.saitama.jp/kurashi/gomi/1002421/1020810.html",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  },
+  {
+    "url": "https://kakaku.com/item/K0001767416/",
+    "status": 200,
+    "final_url": "https://kakaku.com/item/K0001767416/",
+    "content_type": "text/html",
+    "pages": [
+      "food-waste-guide/ppc15-electricity-cost.html"
+    ]
+  },
+  {
+    "url": "https://www.city.yokosuka.kanagawa.jp/4105/youkou/documents/sigen0207.pdf",
+    "error": "HTTP Error 404: Not Found",
+    "pages": [
+      "food-waste-guide/kanagawa-subsidy.html"
+    ]
+  },
+  {
+    "url": "https://www.city.yokosuka.kanagawa.jp/4105/g_info/documents/r7flyer.pdf",
+    "error": "HTTP Error 404: Not Found",
+    "pages": [
+      "food-waste-guide/kanagawa-subsidy.html"
+    ]
+  },
+  {
+    "url": "https://panasonic.jp/content/dam/panasonic/jp/ja/garbage/contents/subsidy/PDF/kanagawa.pdf",
+    "status": 200,
+    "final_url": "https://panasonic.jp/content/dam/panasonic/jp/ja/garbage/contents/subsidy/PDF/kanagawa.pdf",
+    "content_type": "application/pdf",
+    "pages": [
+      "food-waste-guide/kanagawa-subsidy.html"
+    ]
+  },
+  {
+    "url": "https://www.parisparis.jp/pdf/ShimaSangyo_product_catalogue.pdf",
+    "status": 200,
+    "final_url": "https://www.parisparis.jp/pdf/ShimaSangyo_product_catalogue.pdf",
+    "content_type": "application/pdf",
+    "pages": [
+      "food-waste-guide/model-comparison.html"
+    ]
+  },
+  {
+    "url": "https://www.parisparis.jp/pdf/parisparis_cue_alpha.pdf",
+    "status": 200,
+    "final_url": "https://www.parisparis.jp/pdf/parisparis_cue_alpha.pdf",
+    "content_type": "application/pdf",
+    "pages": [
+      "food-waste-guide/model-comparison.html"
+    ]
+  },
+  {
+    "url": "https://www.city.yokosuka.kanagawa.jp/4150/g_info/l100000707.html",
+    "status": 200,
+    "final_url": "https://www.city.yokosuka.kanagawa.jp/4150/g_info/l100000707.html",
+    "pages": [
+      "food-waste-guide/kanagawa-subsidy.html",
+      "food-waste-guide/subsidy-guide.html"
+    ]
+  }
+]

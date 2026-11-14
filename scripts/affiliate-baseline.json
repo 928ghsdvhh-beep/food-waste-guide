@@ -1,0 +1,44 @@
+{
+  "note": "Snapshot from main or its existing build before editorial changes; do not regenerate to hide advertising changes.",
+  "tracking_ids": [
+    "moon12-22"
+  ],
+  "protected_html_sha256": {
+    "about.html": [],
+    "index.html": [
+      "2cf504d5c84dd2d4624c600e35a2e5901e4888f40d1f1d4fc9ab596fb2c39f4d",
+      "38cb7476b673285250c231448634852ed8bf2721c0e13299ec56f15525167abb",
+      "a9ef489c7a26f94677d5b50cb50b8736ed5167d83ea3b75826dad168c765cec8",
+      "b6d9408d13076d0bdb6ab87c5c096b7023e0925a44ea0e4646229435920b59f9",
+      "cbd43949a79f427f5a590d4ac66e14817aea01837f8fe8faa26f3b0c8b8aaa68",
+      "ecbee973192892e738aee41ce79733accdfaf6f12b1b011f89b6b32bfba90cff"
+    ],
+    "subsidy-guide.html": [
+      "1153acff6e3c01d3aa16e0a573a9ddab655529601b037dfd81171811d24f8d04",
+      "af7526e92c3b2165e1dd3eb5e04c8064c128d195aafcf502d548265c1b23c815"
+    ],
+    "ppc15-electricity-cost.html": [
+      "debad1046df2045d2c638b19e39c05503863bdb22fd64be88cdf8ac6f61ded65",
+      "f2e9e7a286d3eaa84f1123fa7811a904a1a9f2b6a585ca15844332952c79268b"
+    ],
+    "food-waste-dryer-checklist.html": [
+      "debad1046df2045d2c638b19e39c05503863bdb22fd64be88cdf8ac6f61ded65",
+      "f2e9e7a286d3eaa84f1123fa7811a904a1a9f2b6a585ca15844332952c79268b"
+    ],
+    "kanagawa-subsidy.html": [
+      "1153acff6e3c01d3aa16e0a573a9ddab655529601b037dfd81171811d24f8d04",
+      "af7526e92c3b2165e1dd3eb5e04c8064c128d195aafcf502d548265c1b23c815"
+    ],
+    "model-comparison.html": [
+      "38cb7476b673285250c231448634852ed8bf2721c0e13299ec56f15525167abb",
+      "cbd43949a79f427f5a590d4ac66e14817aea01837f8fe8faa26f3b0c8b8aaa68"
+    ],
+    "404.html": [],
+    "privacy.html": [],
+    "ebina-subsidy.html": [
+      "1153acff6e3c01d3aa16e0a573a9ddab655529601b037dfd81171811d24f8d04",
+      "af7526e92c3b2165e1dd3eb5e04c8064c128d195aafcf502d548265c1b23c815"
+    ],
+    "googled51db09eaf8187a0.html": []
+  }
+}
